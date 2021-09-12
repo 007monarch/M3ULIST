@@ -1,4 +1,6 @@
 ﻿#EXTM3U
+#EXTINF:-1 group-title="AR | MBC" tvg-id="MBC" tvg-name="MBC 2" tvg-logo="https://i.imgur.com/KXuzL1u.png" ,MBC 2
+https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index.m3u8
 #EXTINF:-1 group-title="AR | MBC" tvg-id="MBC 3" tvg-name="MBC 3" tvg-logo="https://i.imgur.com/FVNVC73.png" ,MBC 3
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
 #EXTINF:-1 group-title="AR | MBC" tvg-id="MBC Bollywood" tvg-name="MBC Bollywood" tvg-logo="https://i.imgur.com/fMjhK06.png" ,MBC Bollywood
@@ -81,3 +83,5 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/sudan_tv/hls1/sudan_tv.m
 https://master.starmena-cloud.com/hls/yemenshabab.m3u8?v=2957056943
 #EXTINF:-1 group-title="AR | Yemen" tvg-id="lGdlmshrq.ye" tvg-name="الغد المشرق" ,الغد المشرق
 http://82.212.74.3:8000/live/hls/7512.m3u8
+#EXTINF:-1 group-title="AR | KIDS" tvg-id="lGdlmshrq.ye" tvg-name="مغامرات ساسوكي" ,مغامرات ساسوكي
+https://r4---sn-4g5ednld.googlevideo.com/videoplayback?expire=1631469641&ei=6es9Yce2HcXr7QSJ34XgBQ&ip=88.193.144.116&id=o-AJv_jx-HLj-Kl7AbsSKxVFLXYobXhyPa_T9zpUv98wXT&itag=135&aitags=133%2C134%2C135%2C160%2C242%2C243%2C244%2C278%2C394%2C395%2C396%2C397&source=youtube&requiressl=yes&vprv=1&mime=video%2Fmp4&ns=zJFBJ4CoAKUbSRkT_3lDeowG&gir=yes&clen=1505375808&dur=29348.480&lmt=1554875108260202&keepalive=yes&fexp=24001373,24007246&c=WEB&txp=5532432&n=3EEjFAPmg9cB7wFM&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cdur%2Clmt&sig=AOq0QJ8wRAIgB2yk_ZLw7nouiTwHj0CucnoPM1JWDinBtb0N4jss_Z0CIAQjuHiXRqgSKk_dAOiPE-FneHchB7QoDJRKSGRv8BKT&redirect_counter=1&cm2rm=sn-ixhe7z&req_id=7f9901b14f29a3ee&cms_redirect=yes&mh=3T&mm=34&mn=sn-4g5ednld&ms=ltu&mt=1631448041&mv=m&mvi=4&pl=18&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRQIhAJAZ-Ca5fcFiEdkOkLm5svydpDudfHIoRTuJqagoDtHJAiARWaRVNEjXTBiN8_rnGQgwtv-hMy8GaFSUqt1ztMMZwQ%3D%3D

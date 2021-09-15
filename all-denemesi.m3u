@@ -1,6 +1,8 @@
 ﻿#EXTM3U
 #EXTINF:-1 group-title="TR | ULUSAL" tvg-id="TurkmeneliTV.tr" tvg-name="Turkmeneli TV" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/turkmenelitvhdplus.png" tvg-logo-small="http://logo.panel.cx/logo/ASIA/TURKEY/turkmenelitvhdplus.png" ,Turkmeneli TV
 https://137840.global.ssl.fastly.net/edge/live_6b7c6e205afb11ebb010f5a331abaf98/playlist.m3u8
+#EXTINF:-1 group-title="IRQ | RADIO" tvg-id="TurkmeneliTV.tr" tvg-name="IRQ | RADIO" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/turkmenelitvhdplus.png" tvg-logo-small="http://logo.panel.cx/logo/ASIA/TURKEY/turkmenelitvhdplus.png" ,RADIO
+http://alrasheedmedia.com:9998/;
 #EXTINF:-1 group-title="AR | MBC" tvg-id="MBC" tvg-name="MBC" tvg-logo="https://i.imgur.com/eKBXOKd.png" ,MBC 1 KSA
 https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index.m3u8
 #EXTINF:-1 group-title="AR | MBC" tvg-id="MBC" tvg-name="MBC" tvg-logo="https://i.imgur.com/eKBXOKd.png" ,MBC 1 KSA

@@ -2,7 +2,7 @@
 #EXTINF:-1 group-title="TR | ULUSAL" tvg-id="TurkmeneliTV.tr" tvg-name="Turkmeneli TV" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/turkmenelitvhdplus.png" tvg-logo-small="http://logo.panel.cx/logo/ASIA/TURKEY/turkmenelitvhdplus.png" ,Turkmeneli TV
 https://137840.global.ssl.fastly.net/edge/live_6b7c6e205afb11ebb010f5a331abaf98/playlist.m3u8
 #EXTINF:-1 group-title="AR | RADIO" tvg-name="راديو الرشيد" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple71/v4/94/6e/ee/946eee2a-6502-1507-c3d5-e34791cd0f56/source/512x512bb.jpg" tvg-logo-small="https://is5-ssl.mzstatic.com/image/thumb/Purple71/v4/94/6e/ee/946eee2a-6502-1507-c3d5-e34791cd0f56/source/512x512bb.jpg" ,راديو الرشيد
-http://alrasheedmedia.com:9998/;
+http://alrasheedmedia.com:9998/stream
 #EXTINF:-1 group-title="AR | RADIO" tvg-name="راديو صوت السلام" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple71/v4/94/6e/ee/946eee2a-6502-1507-c3d5-e34791cd0f56/source/512x512bb.jpg" tvg-logo-small="https://is5-ssl.mzstatic.com/image/thumb/Purple71/v4/94/6e/ee/946eee2a-6502-1507-c3d5-e34791cd0f56/source/512x512bb.jpg" ,راديو صوت السلام
 http://107.180.92.225:8000/salamradio
 #EXTINF:-1 group-title="AR | RADIO" tvg-name="Sumer FM" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple71/v4/94/6e/ee/946eee2a-6502-1507-c3d5-e34791cd0f56/source/512x512bb.jpg" tvg-logo-small="https://is5-ssl.mzstatic.com/image/thumb/Purple71/v4/94/6e/ee/946eee2a-6502-1507-c3d5-e34791cd0f56/source/512x512bb.jpg" ,Sumer FM
